@@ -2,4 +2,4 @@
 Projects in c language
 
 ### Projects
-- [ ] Hangman CLI
+- [x] Hangman CLI
